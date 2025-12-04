@@ -2,3 +2,4 @@
 
 - Salary Calculator
 - Unique List
+- Fusion Forge
